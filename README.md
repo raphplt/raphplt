@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.raphotos.fr](https://www.raphotos.fr)
 
-- 💬 Ask me about **Javascript, TypeScript, ReactJS, NextJS, ExpressJS, Tailwind**
+- 💬 Ask me about **Javascript, TypeScript, ReactJS, NextJS, ExpressJS, TailwindCSS, VueJS, ReactNative**
 
 - 📫 How to reach me **raphael.plassart@gmail.com**
 
