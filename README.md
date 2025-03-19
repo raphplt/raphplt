@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [raph-portfolio.fr](raph-portfolio.fr)
 
-- 📝 I regularly write articles on [https://www.raphotos.fr](https://www.raphotos.fr)
+- 📝 I regularly write articles on [https://www.melios.me](https://www.melios.me)
 
 - 💬 Ask me about **Javascript, TypeScript, ReactJS, NextJS, ExpressJS, TailwindCSS, ReactNative**
 
