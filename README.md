@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactNative, SvelteKit, C**
 
-- 👨‍💻 All of my projects are available at [raph-portfolio.fr](raph-portfolio.fr)
+- 👨‍💻 All of my projects are available at [raphael-plassart.com](raphael-plassart.com)
 
 - 📝 I regularly write articles on [https://www.melios.me](https://www.melios.me)
 
