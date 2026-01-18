@@ -13,7 +13,7 @@ Full-Stack Web & Mobile Developer · Product-oriented · France 🇫🇷
 
 ### 🚀 About me
 
-- 💼 **Full-Stack & Mobile Developer** with 2+ years of experience in startups & SaaS  
+- 💼 **Full-Stack & Mobile Developer** with 3+ years of experience in startups & SaaS  
 - 🏗️ I build products **from scratch to production** (web, mobile & infra)
 - 🧠 Strong **product mindset** + clean architecture
 - 🎯 Focused on performance, DX, scalability & long-term vision
@@ -57,39 +57,18 @@ Full-Stack Web & Mobile Developer · Product-oriented · France 🇫🇷
 
 ### 🛠️ Tech stack
 
-#### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-#### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40"/>
-</p>
-
-#### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-#### DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
-
+Frontend
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> </p>
+Backend
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/> </p>
+Mobile
+<p> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> </p>
+Databases
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/> </p>
+DevOps & Infrastructure
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/hashicorp_vagrant/hashicorp_vagrant-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/> </p>
+Tooling
+<p> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> </p>
 ---
 
 ### 📊 GitHub stats
