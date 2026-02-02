@@ -47,14 +47,6 @@ Full-Stack Web & Mobile Developer · Product-oriented · France 🇫🇷
 
 ---
 
-### 🌐 Online presence
-
-- 👨‍💻 Portfolio: https://www.raphael-plassart.com  
-- 💼 LinkedIn: https://linkedin.com/in/raphaël-plassart  
-- 📫 Contact: **raphael.plassart@gmail.com**
-
----
-
 ### 🛠️ Tech stack
 
 Frontend
