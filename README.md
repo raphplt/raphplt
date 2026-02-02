@@ -69,8 +69,17 @@ Frontend
 </p>
 
 Backend
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 </p>
+
+
 Mobile
 <p> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> </p>
 Databases
