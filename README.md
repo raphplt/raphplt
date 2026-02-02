@@ -74,4 +74,4 @@ Tooling
 
 ### 📊 GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphplt&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raphplt&show_icons=true&theme=transparent&cache_seconds=86400)
