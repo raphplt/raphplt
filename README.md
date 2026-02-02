@@ -71,7 +71,17 @@ DevOps & Infrastructure
 Tooling
 <p> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> </p>
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub stats
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
 
-![Stats](./profile/stats.svg)
+---
+
+### 🚀 Featured Project
+
+<p align="center">
+  <img src="./profile/qoredb.svg" />
+</p>
