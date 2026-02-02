@@ -74,9 +74,5 @@ Tooling
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphplt&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphplt" />
+ [![Mes statistiques](https://github-readme-stats.vercel.app/api?username=raphplt)](https://github.com/anuraghazra/github-readme-stats)
 </p>
