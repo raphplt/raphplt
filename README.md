@@ -74,4 +74,4 @@ Tooling
 
 ### 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raphplt&show_icons=true&theme=transparent&cache_seconds=86400)
+![Stats](./profile/stats.svg)
