@@ -70,7 +70,9 @@ DevOps & Infrastructure
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/> </p>
 Tooling
 <p> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> </p>
+
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
