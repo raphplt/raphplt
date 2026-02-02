@@ -61,6 +61,7 @@ Frontend
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> </p>
 Backend
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
 Mobile
 <p> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> </p>
 Databases
@@ -73,6 +74,4 @@ Tooling
 
 ### 📊 GitHub stats
 
-<p align="center">
- [![Mes statistiques](https://github-readme-stats.vercel.app/api?username=raphplt)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![Raphplt's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphplt)
