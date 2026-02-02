@@ -17,9 +17,21 @@ jobs:
           options: username=raphplt&show_icons=true&theme=transparent
           path: profile/stats.svg
 
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=raphplt&layout=compact&langs_count=8&theme=transparent
+          path: profile/top-langs.svg
+
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=raphplt&repo=QoreDB&theme=transparent
+          path: profile/qoredb.svg
+
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/stats.svg
+          git add profile/stats.svg profile/top-langs.svg profile/qoredb.svg
           git commit -m "Update stats" || exit 0
           git push
