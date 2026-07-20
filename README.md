@@ -1,132 +1,19 @@
-<h1 align="center">Hi 👋, I'm Raphaël Plassart</h1>
-<h3 align="center">
-Full-Stack Web & Mobile Developer · Product-oriented · France 🇫🇷
-</h3>
+## Raphaël Plassart
+
+Full-stack developer — web, mobile, and a bit of systems. France.
+
+I build products end to end, from first commit to production.
+
+**Currently**
+- Full-stack & mobile developer @ Tkorp
+- Building [QoreDB](https://github.com/raphplt/QoreDB) — a local-first desktop client for SQL & NoSQL databases (Rust, Tauri, React)
+
+**Working with**
+TypeScript · React · Next.js · React Native · NestJS · Node.js · Rust · PostgreSQL · MongoDB · Redis · Docker · Linux
+
+---
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=raphplt">
-    <img src="https://komarev.com/ghpvc/?username=raphplt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
----
-
-### 🚀 About me
-
-- 💼 **Full-Stack & Mobile Developer** with 3+ years of experience in startups & SaaS  
-- 🏗️ I build products **from scratch to production** (web, mobile & infra)
-- 🧠 Strong **product mindset** + clean architecture
-- 🎯 Focused on performance, DX, scalability & long-term vision
-
----
-
-### 🔭 Current work
-
-- **Full-Stack & Mobile Developer @ Tkorp**  
-  Building and scaling production web & mobile applications
-
-- **Founder & Lead Developer – QoreDB**  
-  🧠 Unified SQL & NoSQL database with a modern DX  
-  👉 https://github.com/raphplt/QoreDB
-
----
-
-### 🌱 Currently learning
-
-- **Rust** (systems, performance & safety)
-- **DevOps** (Docker, CI/CD, VPS, infra automation)
-
----
-
-### 🧑‍💻 Freelance missions
-
-- ⚡ **Web, SaaS & MVP development**
-- 🧩 Architecture, backend APIs, dashboards, tooling
-
-👉 https://atlas.raphael-plassart.com/
-
----
-
-### 🛠️ Tech stack
-
-Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-    width="40"
-  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
-</p>
-
-
-Mobile
-<p>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-</p>
-
-Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-</p>
-
-DevOps & Infrastructure
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
-</p>
-
-Tooling
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
-</p>
-
----
-
-### 🚀 Featured Project
-
-<p align="center">
-  <img src="./profile/qoredb.svg" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
